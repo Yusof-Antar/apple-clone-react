@@ -15,9 +15,7 @@ export default defineConfig({
       telemetry: false,
     }),
   ],
-  base: "/apple-clone-react/",
   build: {
     sourcemap: true,
-    outDir: "build",
   },
 });
