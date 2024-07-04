@@ -10,15 +10,18 @@ import * as Sentry from "@sentry/react";
 
 const App = () => {
   return (
-    <main className="bg-black">
-      <Navbar />
-      <Hero />
-      <Highlights />
-      <Model />
-      <Features />
-      <HowItWorks />
-      <Footer />
-    </main>
+    <h1>
+      HELLO THERE
+    </h1>
+    // <main className="bg-black">
+    //   <Navbar />
+    //   <Hero />
+    //   <Highlights />
+    //   <Model />
+    //   <Features />
+    //   <HowItWorks />
+    //   <Footer />
+    // </main>
   );
 };
 
